@@ -1,0 +1,19 @@
+{
+  "posts":[
+    {
+      "id":1,
+      "title":"aliquid, voluptatibus nam.?",
+      "body":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum similique quia numquam inventore, voluptate saepe provident nulla tenetur itaque pariatur quo totam tempora blanditiis fugit est commodi veritatis accusamus atque aut. Earum magni obcaecati doloribus dolorem. Nesciunt quibusdam fugiat facilis placeat deserunt possimus qui, dolore ipsum aliquam, ipsa natus ullam et nemo! Aliquam nobis perferendis fugit iusto itaque aspernatur repudiandae dolores necessitatibus eveniet cupiditate aut vitae blanditiis doloremque dignissimos recusandae beatae id accusamus praesentium aliquid, voluptatibus nam. Laudantium est fuga dolor temporibus reiciendis molestiae illum laborum nihil at, quae inventore earum, ipsam, nulla eius eligendi quisquam. Vitae maxime incidunt eveniet in sequi soluta voluptates, commodi enim nihil, perspiciatis earum. Earum, ad cumque placeat reprehenderit dignissimos eaque odit minima qui aliquid?"
+    },
+    {
+      "id":2,
+      "title":"Tituto 2 kjhdskjdhsakjdhakj",
+      "body":"Nostrum similique quia numquam inventore, voluptate saepe provident nulla tenetur itaque pariatur quo totam tempora blanditiis fugit est commodi veritatis accusamus atque aut. Earum magni obcaecati doloribus dolorem. Nesciunt quibusdam fugiat facilis placeat deserunt possimus qui, dolore ipsum aliquam, ipsa natus ullam et nemo! Aliquam nobis perferendis fugit est fuga dolor temporibus reiciendis molestiae illum laborum nihil at, quae inventore earum, ipsam, nulla eius eligendi quisquam. Vitae maxime incidunt eveniet in sequi soluta voluptates, commodi enim nihil, perspiciatis odit minima qui aliquid?"
+    },
+    {
+      "id":3,
+      "title":"Lorem ipsum dolor sit aliquid, voluptatibus nam.?",
+      "body":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. am inventore, voluptate quo totam tempora blanditiis fugit est commodi veritatis accusamus atque aut. Earum magni obcaecati doloribus dolorem. Nesciunt quibusdam fugiat facilis placeat deserunt possimus qui, dolore ipsum aliquam, ipsa natus ullam et nemo! Aliquam nobis perferendis fugit iusto itaque aspernatur repudiandae dolores necessitatibus eveniet cupiditate aut vitae blanditiis doloremque dignissimos recusandae beatae id accusamus praesentium aliquid, voluptatibus nam. Laudantium est fuga dolor temporibus reiciendis molestiae illum laborum nihil at, quae inventore earum, ipsam, nulla eius eligendi quisquam. Vitae maxime incidunt eveniet in sequi soluta voluptates, commodi enim nihil, perspiciatis earum. Earum, ad cumque placeat reprehenderit dignissimos eaque odit minima qui aliquid?"
+    }
+  ]
+}
